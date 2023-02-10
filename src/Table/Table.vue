@@ -131,7 +131,7 @@ td::-webkit-scrollbar-track {
   background-color: #ebeef5;
 } /* 滚动条的滑轨背景颜色 */
 td::-webkit-scrollbar-thumb {
-  background-color: rgba(0, 0, 0, 0.2);
+  background-color: #c7c9cc;
   border: 10px;
 } /* 滑块颜色 */
 </style>
